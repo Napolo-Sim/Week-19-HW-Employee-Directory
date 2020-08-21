@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Week-19-HW-Employee-Directory/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Week-19-HW-Employee-Directory/static/js/main.03faf1be.chunk.js",
+    "main.js.map": "/Week-19-HW-Employee-Directory/static/js/main.03faf1be.chunk.js.map",
+    "runtime-main.js": "/Week-19-HW-Employee-Directory/static/js/runtime-main.4963bd12.js",
+    "runtime-main.js.map": "/Week-19-HW-Employee-Directory/static/js/runtime-main.4963bd12.js.map",
+    "static/js/2.75fc1c71.chunk.js": "/Week-19-HW-Employee-Directory/static/js/2.75fc1c71.chunk.js",
+    "static/js/2.75fc1c71.chunk.js.map": "/Week-19-HW-Employee-Directory/static/js/2.75fc1c71.chunk.js.map",
+    "index.html": "/Week-19-HW-Employee-Directory/index.html",
+    "precache-manifest.a307edf80ec679168db23c6246a7cd3d.js": "/Week-19-HW-Employee-Directory/precache-manifest.a307edf80ec679168db23c6246a7cd3d.js",
+    "service-worker.js": "/Week-19-HW-Employee-Directory/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Week-19-HW-Employee-Directory/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.75fc1c71.chunk.js.LICENSE.txt": "/Week-19-HW-Employee-Directory/static/js/2.75fc1c71.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4963bd12.js",
+    "static/js/2.75fc1c71.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.03faf1be.chunk.js"
+  ]
+}
