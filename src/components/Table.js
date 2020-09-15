@@ -1,14 +1,14 @@
 import React from 'react'
 
-const Table = (props) => {
+const Table = ({ children }) => {
     return (
         <tr>
             <td>
-                <img src={props.children.picture}></img>
+                <img src={children.picture}></img>
             </td>
-            <td>{props.children.name}</td>
-            <td>{props.children.age}</td>
-            <td>{props.children.email}</td>
+            <td>{children.name}</td>
+            <td>{children.age}</td>
+            <td>{children.email}</td>
         </tr>
     )
 }
