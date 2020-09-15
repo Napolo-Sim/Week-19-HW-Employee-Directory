@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-//Imported components
 import Table from "./components/Table"
 import Filters from "./components/Filters";
 import Searchotron from "./components/Searchotron"
@@ -60,8 +59,6 @@ function App() {
     }
   });
 
-
-
   return (
     <div className="App">
       <Searchotron employeeSearch={employeeSearch} />
@@ -89,18 +86,16 @@ function App() {
             <th scope="col">Email</th>
           </tr>
         </thead>
-        <tbody >
 
+        <tbody >
           {matchingEmployees.map((employee, id) => (
             <Table key={id}>
               {employee}
             </Table>
           ))}
-
         </tbody>
       </table>
     </div>
-
   );
 }
 
